@@ -1,0 +1,10 @@
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\obj\Debug\netstandard2.1\FigureTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\obj\Debug\netstandard2.1\FigureTask.AssemblyInfoInputs.cache
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\obj\Debug\netstandard2.1\FigureTask.AssemblyInfo.cs
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\obj\Debug\netstandard2.1\FigureTask.csproj.CoreCompileInputs.cache
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\bin\Debug\netstandard2.1\FigureTask.deps.json
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\bin\Debug\netstandard2.1\FigureTask.dll
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\bin\Debug\netstandard2.1\FigureTask.pdb
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\obj\Debug\netstandard2.1\FigureTask.dll
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\obj\Debug\netstandard2.1\FigureTask.pdb
+C:\Users\mmeleshko\source\repos\FigureTask\FigureTask\obj\Debug\netstandard2.1\FigureTask.csproj.AssemblyReference.cache
